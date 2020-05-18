@@ -1,7 +1,7 @@
 # Код приложения
 ## Код программы 
 
-```private void Form1_Paint(object sender, PaintEventArgs e)
+``private void Form1_Paint(object sender, PaintEventArgs e)
         {
             Point[] points =
                 {
@@ -93,6 +93,6 @@
             e.Graphics.FillEllipse(Brushes.White, 265, 220, 15, 15);
             e.Graphics.DrawEllipse(Pens.White, 280, 227, 15, 15);
             e.Graphics.FillEllipse(Brushes.White, 280, 227, 15, 15);
-        }
+        }``
 
 (c) KatrinRain, 2020 г. 
