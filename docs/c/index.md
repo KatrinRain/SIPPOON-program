@@ -1,8 +1,9 @@
 # Код приложения
 ## Код программы 
 
-```private void Form1_Paint(object sender, PaintEventArgs e)  <br>
-        {  <br> 
+```C#
+private void Form1_Paint(object sender, PaintEventArgs e)  
+        {   
             Point[] points =  
                 {  
                 new Point(300, 40),  
