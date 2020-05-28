@@ -2,9 +2,9 @@
 
 ## Меню
 
-- [Требования к запуску приложения](/SIPPOON-program/start/)
-- [Интерфейс приложения](/SIPPOON-program/interface/)
-- [Код приложения](/SIPPOON-program/code/)
+- [Требования к запуску приложения](/sippoon-program/start/)
+- [Интерфейс приложения](/sippoon-program/interface/)
+- [Код приложения](/sippoon-program/code/)
 - Скачать
 
 ## Лицензионное соглашение
